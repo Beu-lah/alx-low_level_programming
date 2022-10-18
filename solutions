@@ -1,8 +1,0 @@
-#!/bin/bash
-cd jed/alx-low_level_programming
-git pull
-cp -r ./* /alx-low_level_programming
-cd ../../alx-low_level_programming
-git add .
-git commit -m "first commit"
-git push
